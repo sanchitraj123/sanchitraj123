@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **on LinkedIn**
+- 👯 I’m looking to collaborate on **LinkedIn**
 
 - 💬 Ask me about **frontend technologies**
 
